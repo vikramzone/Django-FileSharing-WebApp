@@ -1,0 +1,10 @@
+Setting up the environment:
+
+download python (3.6 or higher)
+create a virtual environment (pip install virtualenvwrapper-win && mkvirtualenv Django)
+Switch to your environment (workon django)
+Install django (pip install Django)
+Create a new project (django-admin startproject django_project)
+
+
+
